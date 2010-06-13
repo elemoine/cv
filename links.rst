@@ -8,10 +8,13 @@
 .. a brief note and link would be appreciated, if the CV is served as a web
 .. page. You can use the screen-only class for this.
 ..
+
+.. _web mapping: http://en.wikipedia.org/wiki/Web_mapping
   
 .. _XHTML: http://www.w3.org/MarkUp/
 .. _CSS: http://www.w3.org/Style/CSS/
 
+.. _MPI: http://www.mcs.anl.gov/research/projects/mpi/
 .. _Ext: http://extjs.com
 .. _OpenLayers: http://www.openlayers.org
 .. _GeoExt: http://www.geoext.org
@@ -19,8 +22,3 @@
 .. _SQLAlchemy: http://www.sqlalchemy.org
 
 .. _Phd thesis: http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2004.complete.html#PhDTh.lemoine.nouvelles.04
-
-.. _Fast forwarding technical report: http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2003.complete.html#TechR.lefevre.lemoine.pham.ea.fast.03
-.. _Packet classification technical report: http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2003.complete.html#TechR.lemoine.pham.lefevre.packet.03
-.. _Packet classification publication: http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2004.complete.html#InPro.lemoine.pham.lefevre.packet.04
-.. _Transmission notification technical report: http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2004.complete.html#TechR.lemoine.pham.lefevre.new.04

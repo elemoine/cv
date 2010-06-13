@@ -19,9 +19,9 @@
 
 **Éric Lemoine**
 
-Python, JavaScript, and C developer, with a specialization in web mapping.
+Python, JavaScript, and C developer, with a specialization in `web mapping`_.
 
-:Age: 35
+:Age: 34
 :Email: Eric -DOT- Lemoine -AT- gmail -DOT- com
 
 -------------------------------------------------------------------------------
@@ -33,11 +33,12 @@ Education
 Sep 2001 |--| Jul 2004
     | Université Claude Bernard de Lyon (UCBL)
     | Phd student
-    | Subject: New network interface functions for improved performance on multi-processor machines
+    | Subject: New network interface functions for improved performance on
+      multi-processor machines
 Sep 2000 |--| Sep 2001
     | École Normale Supérieur (ENS)
     | Master student
-    | Field: High performance computing, high performance networking
+    | Field: High performance computing and networking
 Sep 1999 |--| Sep 2000
     | Institut National des Sciences Appliquées (INSA)
     | Engineer student
@@ -57,6 +58,7 @@ Feb 2000 |--| Sep 2000
     | "Institut de Recherche en Informatique et Systèmes Aléatoires"
     | Field: high-performance distributed computing
     | Task: dev. of a parallel and distributed application with CORBA and MPI
+    | Technologies: C++, CORBA, `MPI`_
 
 -------------------------------------------------------------------------------
 Professional work
@@ -92,13 +94,15 @@ Languages
     | shell (bash, zsh, tsch)
     | XML, HTML, CSS
 Programming tools
-    | gcc, gdb
     | Git, Mercurial, SVN, CVS
+    | gcc, gdb
     | vim, Eclipse
 Operating systems
-    | Linux, Solaris |--| admin, user-level and kernel-level programming
+    | Linux (admin, user-level and kernel-level programming)
+    | Solaris (admin, user-level programming)
 Databases
-    | PostgreSQL (and PostGIS), SQLite (and Spatialite), MySQL
+    | PostgreSQL, SQLite, MySQL
+    | PostGIS, Spatialite
 
 -------------------------------------------------------------------------------
 Publications
@@ -134,7 +138,10 @@ Publications
 Social and personal skills
 -------------------------------------------------------------------------------
 
-* Strong didactics, especially when related to computer concepts
+* Passionate software developer
+* Linux user and enthusiat for 10 years
+* Opensource believer
+* Autodidact, especially when related to computer concepts
 * Competent in providing guidance and leadership to others
 
 .. class:: online-notes
