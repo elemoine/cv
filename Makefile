@@ -32,7 +32,7 @@ cv.en.%: RST2HTML_OPTS := $(RST2HTML_OPTS) --stylesheet=cv.css --language=en
 				 -e 's,<title>Technical Profile</title>,<title>Tech Profile Éric Lemoine</title>,' \
 				 -e 's,<title>List of References</title>,<title>References Éric Lemoine</title>,' $@
 %.pdf: %.rst
-	rst2pdf $<
+	rst2pdf -s cv.pdfstyle $<
 
 .PHONY: clean
 clean:
