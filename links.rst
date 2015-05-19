@@ -9,16 +9,18 @@
 .. page. You can use the screen-only class for this.
 ..
 
-.. _web mapping: http://en.wikipedia.org/wiki/Web_mapping
-  
-.. _XHTML: http://www.w3.org/MarkUp/
 .. _CSS: http://www.w3.org/Style/CSS/
 
+.. _AngularJS: http://angularjs.org/
+.. _Closure Tools: https://developers.google.com/closure/
+.. _GeoAlchemy: http://geoalchemy.org
+.. _JMX: http://www.oracle.com/technetwork/java/javase/tech/javamanagement-140525.html
+.. _JNI: http://docs.oracle.com/javase/7/docs/technotes/guides/jni/index.html
 .. _MPI: http://www.mcs.anl.gov/research/projects/mpi/
-.. _Ext: http://extjs.com
-.. _OpenLayers: http://www.openlayers.org
-.. _GeoExt: http://www.geoext.org
-.. _Pylons: http://pylonshq.com
+.. _OpenLayers: http://openlayers.org
+.. _Pylons: http://www.pylonsproject.org
+.. _Pyramid: http://docs.pylonsproject.org/en/latest/docs/pyramid.html
 .. _SQLAlchemy: http://www.sqlalchemy.org
+.. _Sungem: https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/tree/drivers/net/ethernet/sun/sungem.c?id=refs/tags/v4.0.4
 
 .. _Phd thesis: http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2004.complete.html#PhDTh.lemoine.nouvelles.04

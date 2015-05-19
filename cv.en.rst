@@ -15,13 +15,11 @@
                                 Curriculum Vitae
 ===============================================================================
 
-.. include:: ie-note.rst
-
 **Éric Lemoine**
 
-Python, JavaScript, and C developer, with a specialization in `web mapping`_.
+Python, JavaScript, and C developer.
 
-:Age: 34
+:Age: 39
 :Email: Eric -DOT- Lemoine -AT- gmail -DOT- com
 
 -------------------------------------------------------------------------------
@@ -31,20 +29,20 @@ Education
 .. class:: with-title
 
 Sep 2001 |--| Jul 2004
-    | Université Claude Bernard de Lyon (UCBL)
+    | **Université Claude Bernard de Lyon (UCBL)**
     | Phd student
     | Subject: New network interface functions for improved performance on
       multi-processor machines
 Sep 2000 |--| Sep 2001
-    | École Normale Supérieur (ENS)
+    | **École Normale Supérieur (ENS)**
     | Master student
     | Field: High performance computing and networking
 Sep 1999 |--| Sep 2000
-    | Institut National des Sciences Appliquées (INSA)
+    | **Institut National des Sciences Appliquées (INSA)**
     | Engineer student
     | Field: computer science
 Sep 1996 |--| Jul 1999
-    | Institut des Sciences et Techniques de l'Ingénieur de Lyon (ISTIL)
+    | **Institut des Sciences et Techniques de l'Ingénieur de Lyon (ISTIL)**
     | Engineer student
     | Field: Applied mathematics
 
@@ -55,7 +53,7 @@ Internships
 .. class:: with-title
 
 Feb 2000 |--| Sep 2000
-    | "Institut de Recherche en Informatique et Systèmes Aléatoires"
+    | **Institut de Recherche en Informatique et Systèmes Aléatoires (INRIA)**
     | Field: high-performance distributed computing
     | Task: dev. of a parallel and distributed application with CORBA and MPI
     | Technologies: C++, CORBA, `MPI`_
@@ -67,23 +65,27 @@ Professional work
 .. class:: with-title
 
 Feb 2007 |--| present
-    | Camptocamp
-    | Title: senior developer, technical leader, opensource project member
-    | Domain: geospatial, web, opensource
-    | Languages: JavaScript, CSS, HTML, Python
-    | Technologies: `Ext`_, `OpenLayers`_, `GeoExt`_, `Pylons`_, `SQLAlchemy`_
+    | **Camptocamp**
+    | Title: Senior Developer, Technical Leader, Open-source Project Member
+    | Domain: Geospatial, Web, Open-source
+    | Languages: Python, JavaScript, HTML
+    | Technologies: `OpenLayers`_, `Pylons`_, `SQLAlchemy`_, `Closure Tools`_
+    | Roles: Developer and project member of the `OpenLayers`_ and `GeoAlchemy`_ open-source libraries. Developer of Web applications with the `Pyramid`_ Python framework, the `AngularJS`_ and `OpenLayers`_ JavaScript libraries, and the `Closure Tools`_. Technical Leader, responsible for developing and delivering high-quality, production-level, applications.
+
 Aug 2004 |--| Feb 2007
-    | Sun Microsystems
-    | Title: software engineer
-    | Domain: high availability, system programming
+    | **Sun Microsystems**
+    | Title: Software engineer
+    | Domain: High Availability, System Programming
     | Languages: C, Java
-    | Technologies: Solaris, Sun Cluster, JMX
+    | Technologies: Solaris, Sun Cluster, `JMX`_
+    | Roles: Developer of C libraries collecting resource usage statistics from the Solaris operating system. Developer of Java code for the Sun Cluster monitoring console, with `JMX`_ and `JNI`_.
 Sep 2001 |--| Aug 2004
-    | Sun Microsystems and UCBL
+    | **Sun Microsystems and UCBL**
     | Title: Phd student
-    | Domain: High performance networking, multi-core and network CPUs
+    | Domain: High Performance Networking, Multi-core and Network CPUs
     | Languages: C
     | Technologies: Linux, TCP/IP, network drivers
+    | Main achievements: `Phd thesis`_, development of a Network Device Driver for the Linux kernel (the `Sungem`_ driver).
 
 -------------------------------------------------------------------------------
 Main computer skills
@@ -139,8 +141,8 @@ Social and personal skills
 -------------------------------------------------------------------------------
 
 * Passionate software developer
-* Linux user and enthusiat for 10 years
-* Opensource believer
+* Linux user and enthusiat for 15 years
+* Open-source contributors
 * Autodidact, especially when related to computer concepts
 * Competent in providing guidance and leadership to others
 
