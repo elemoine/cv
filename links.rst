@@ -9,8 +9,6 @@
 .. page. You can use the screen-only class for this.
 ..
 
-.. _CSS: http://www.w3.org/Style/CSS/
-
 .. _AngularJS: http://angularjs.org/
 .. _Closure Tools: https://developers.google.com/closure/
 .. _GeoAlchemy: http://geoalchemy.org
@@ -18,9 +16,8 @@
 .. _JNI: http://docs.oracle.com/javase/7/docs/technotes/guides/jni/index.html
 .. _MPI: http://www.mcs.anl.gov/research/projects/mpi/
 .. _OpenLayers: http://openlayers.org
+.. _Phd thesis: http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2004.complete.html#PhDTh.lemoine.nouvelles.04
 .. _Pylons: http://www.pylonsproject.org
 .. _Pyramid: http://docs.pylonsproject.org/en/latest/docs/pyramid.html
 .. _SQLAlchemy: http://www.sqlalchemy.org
 .. _Sungem: https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/tree/drivers/net/ethernet/sun/sungem.c?id=refs/tags/v4.0.4
-
-.. _Phd thesis: http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2004.complete.html#PhDTh.lemoine.nouvelles.04
